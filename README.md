@@ -1,4 +1,4 @@
-# Memora — The Founder's Brain
+# Memora — The Founder's Brain 🧠
 
 > Your company's institutional memory. Persists across every session. Organises itself overnight. Gets sharper the more you feed it.
 
